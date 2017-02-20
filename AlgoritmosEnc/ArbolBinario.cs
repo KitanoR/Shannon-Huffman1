@@ -9,6 +9,7 @@ namespace AlgoritmosEnc
     class ArbolBinario
     {
         Nodo raiz;
+        int prueba;
         public ArbolBinario()
         {
             raiz = null;
